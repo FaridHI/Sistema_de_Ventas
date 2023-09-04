@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0-windows\Sistema de Ventas.exe
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0-windows\Sistema de Ventas.deps.json
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0-windows\Sistema de Ventas.runtimeconfig.json
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0-windows\Sistema de Ventas.dll
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0-windows\Sistema de Ventas.pdb
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0-windows\Sistema_de_Ventas.login.resources
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0-windows\Sistema de Ventas.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0-windows\Sistema de Ventas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0-windows\Sistema de Ventas.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0-windows\Sistema de Ventas.AssemblyInfo.cs
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0-windows\Sistema de Ventas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0-windows\Sistema de Ventas.dll
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0-windows\refint\Sistema de Ventas.dll
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0-windows\Sistema de Ventas.pdb
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0-windows\Sistema de Ventas.genruntimeconfig.cache
+C:\Users\Admin\Documents\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0-windows\ref\Sistema de Ventas.dll
